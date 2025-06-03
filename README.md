@@ -23,9 +23,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/tu_usuario" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
-  </a>
   &nbsp;&nbsp;
   <a href="mailto:tu_email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
