@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center" style="background-color:#ffe6f0; padding: 20px; border-radius: 15px;">
 
-<!--
-**MagaliOrtiz17/MagaliOrtiz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="color:#d63384;">¡Hola! 👋 Soy <strong>Magali Ortiz</strong></h1>
 
-Here are some ideas to get you started:
+<p style="color:#d63384;">
+  Estudiante de la <strong>Escuela Técnica Nº 1</strong>, orientación <em>Programación e Informática</em>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="border-top: 2px solid #d63384; width: 60%;"/>
+
+### 🛠️ Herramientas y Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cs,html,css,mysql,arduino,php" alt="Skill Icons"/>
+</p>
+
+<hr style="border-top: 2px solid #d63384; width: 60%;"/>
+
+### 🌐 Conecta conmigo
+
+<p>
+  <a href="https://instagram.com/tu_usuario" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/tu_usuario" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tu_email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</p>
+
+</div>
