@@ -3,7 +3,7 @@
 <h1 style="color:#d63384;">¡Hola! 👋 Soy <strong>Magali Ortiz</strong></h1>
 
 <p style="color:#d63384;">
-  Estudiante de la <strong>Escuela Técnica Nº 1</strong>, orientada a la<em>Programación e Informática</em>.
+  Estudiante de la <strong>Escuela Técnica Nº 1</strong>, orientada a la <em>Programación e Informática</em>.
 </p>
 
 <hr style="border-top: 2px solid #d63384; width: 60%;"/>
